@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- Celebration background -->
+  <rect width="300" height="300" fill="#f0f0f0"/>
+  
+  <!-- Party hat -->
+  <path d="M150,80 L100,200 L200,200 Z" fill="#FFD700" stroke="#FFA500" stroke-width="3"/>
+  <circle cx="150" cy="80" r="10" fill="#FF6B6B"/>
+  
+  <!-- Face -->
+  <circle cx="150" cy="150" r="80" fill="#FFEB3B" stroke="#FFA000" stroke-width="3"/>
+  
+  <!-- Happy eyes -->
+  <path d="M120,140 Q125,130 130,140" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  <path d="M170,140 Q175,130 180,140" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Big smile -->
+  <path d="M120,170 Q150,200 180,170" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Confetti -->
+  <circle cx="50" cy="50" r="5" fill="#FF6B6B"/>
+  <circle cx="250" cy="60" r="5" fill="#4ECDC4"/>
+  <circle cx="70" cy="250" r="5" fill="#95E1D3"/>
+  <circle cx="230" cy="240" r="5" fill="#FFD93D"/>
+  <rect x="40" y="100" width="8" height="8" fill="#6C5CE7" transform="rotate(45 44 104)"/>
+  <rect x="260" y="120" width="8" height="8" fill="#FD79A8" transform="rotate(45 264 124)"/>
+  
+  <!-- Text -->
+  <text x="150" y="270" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#333">Celebrate!</text>
+</svg>
