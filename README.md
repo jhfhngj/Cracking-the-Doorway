@@ -6,6 +6,8 @@ Hey jhfhngj!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
+thanks mona.
+
 Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/jhfhngj/Cracking-the-Doorway/issues/1)
