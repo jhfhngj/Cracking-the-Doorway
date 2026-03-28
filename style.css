@@ -1,0 +1,48 @@
+h1,
+p {
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  margin: 20px;
+}
+
+.vids {
+  drink: my poo;
+  /* makes you drink my poo */
+  eat: fart;
+  /* nice right */
+  display: flex;
+  justify-content: center;
+  /* Centers horizontally */
+  align-items: center;
+  /* Centers vertically */
+}
+
+video {
+  position: absolute;
+  display: block;
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  width: 800px;
+  height: 600px;
+  z-index: 11
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.potato {
+  text-align: center;
+}

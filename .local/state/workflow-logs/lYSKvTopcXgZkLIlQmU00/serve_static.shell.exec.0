@@ -1,0 +1,10 @@
+Serving HTML, open the Preview to see your output.
+To see changes you make, you can hit the refresh button in the preview, you do [1mnot[0m have to stop and run again.
+Console logs are available in the Preview devtools or your browser devtools.
+[2m2026-03-28T03:39:39.585041Z[0m [32m INFO[0m [2mstatic_web_server::info[0m[2m:[0m static-web-server 2.33.1
+[2m2026-03-28T03:39:39.585062Z[0m [32m INFO[0m [2mstatic_web_server::info[0m[2m:[0m log level: error
+[2m2026-03-28T03:39:39.585070Z[0m [32m INFO[0m [2mstatic_web_server::info[0m[2m:[0m config file used: /home/runner/workspace/.config/static-web-server.toml
+[2m2026-03-28T03:39:39.585121Z[0m [31mERROR[0m [2mstatic_web_server::server[0m[2m:[0m server failed to start up: failed to bind to 0.0.0.0:80 address
+
+Caused by:
+    Address already in use (os error 98)
